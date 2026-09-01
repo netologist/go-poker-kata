@@ -1,0 +1,5 @@
+.DS_Store
+*.out
+coverage.out
+go-poker-kata
+poker-go
